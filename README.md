@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi there! I'm Nicole, a...
+
+* 💻 Web Developer
+* 📝 Blogger on [nicolejeanette.me](https://nicolejeanette.me)
+* 🎮 Gamer, Streamer ([twitch.tv/NicoleJ](https://twitch.tv/NicoleJ)) and Extra Lifer (I play for the kids of the San Jorge Children's Foundation in Puerto Rico)
+
+### 💌 Get in touch
+
+* 🐤 Twitter: [@_NicoleJ](https://twitter.com/_NicoleJ)
+* 📷 Instagram: [@_NicoleJeanette](https://twitter.com/_NicoleJ)
+* 📩 Email: [nicole@nicoletirado.com](mailto:nicole@nicoletirado.com)
 
 <!--
 **nicolejeanette/nicolejeanette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
