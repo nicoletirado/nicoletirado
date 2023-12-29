@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Nicole, a...
 
-* 💻 Web Developer
-* 📝 Blogger on [nicolejeanette.me](https://nicolejeanette.me)
+* 💻 Lead Developer at Clever Gap
+* 📝 Blogger at [nicolejeanette.me](https://nicolejeanette.me)
 * 🎮 Gamer, Streamer ([twitch.tv/NicoleJ](https://twitch.tv/NicoleJ)) and Extra Lifer (I play for the kids of the San Jorge Children's Foundation in Puerto Rico)
 
 ### 💌 Get in touch
