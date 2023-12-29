@@ -7,7 +7,7 @@
 ### 💌 Get in touch
 
 * 🐤 Twitter: [@_NicoleJ](https://twitter.com/_NicoleJ)
-* 📷 Instagram: [@_NicoleJCodes](https://instagram.com/NicoleJCodes)
+* 📷 Instagram: [@NicoleJCodes](https://instagram.com/NicoleJCodes)
 * 📩 Email: [nicole@nicoletirado.com](mailto:nicole@nicoletirado.com)
 
 <!--
