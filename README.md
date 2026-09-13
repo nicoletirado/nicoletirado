@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Nicole, a...
 
-* 💻 Lead Developer at HolaGecko
+* 💻 Technology Director at HolaGecko
 * 📝 Blogger at [nicolejeanette.me](https://nicolejeanette.me), tech blog at [nicoletirado.com](https://nicoletirado.com)
 * 🎮 Gamer, Streamer ([twitch.tv/NicoleJ](https://twitch.tv/NicoleJ)) and Extra Lifer (I play for the kids of the San Jorge Children's Foundation in Puerto Rico)
 
